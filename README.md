@@ -1,4 +1,4 @@
-# Merging Pandas datasets
+# Data wrangling datasets
 In this project, I use *energy supply and renewable electricity production from the United Nations -energy data* from
 the file "Energy Indicators.xls", *GDP data* from the file "world_bank.csv", and *Sciamgo Journal and Country Rank data
 for Energy Engineering and Power Technology* from the file "scimagojr-3.xlsx", and combine them into
